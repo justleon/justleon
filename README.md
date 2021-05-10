@@ -18,7 +18,7 @@ Other projects:
 [PROZ-Text-Editor](https://github.com/justleon/PROZ-Text-Editor) - [Java] Cooperative text editor in client-server model.  
 
 ### I'd like to learn:
-Rust, more about computer graphics
+Rust, more about computer graphics, gamedev, creating my own game engine
 
 ### **My GitHub Stats!**  
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=justleon&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
