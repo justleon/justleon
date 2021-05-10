@@ -14,7 +14,7 @@ Unit tests
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justleon&repo=PSZT-maze-solver&theme=nord)](https://github.com/justleon/PSZT-maze-solver)  
 Other projects:  
 [PAIN-Qt-SimonSays](https://github.com/justleon/PAIN-Qt-SimonSays) - [C++, JS] 2 games created in Qt and QtQuick framework.  
-[PAIN-Qt-SimonSays](https://github.com/justleon/BombermanPRO-I-) - [C++ SFML] Bomberman-like game for 2 players. Made with singleton pattern.  
+[BombermanPRO-I-](https://github.com/justleon/BombermanPRO-I-) - [C++ SFML] Bomberman-like game for 2 players. Made with singleton pattern.  
 [PROZ-Text-Editor](https://github.com/justleon/PROZ-Text-Editor) - [Java] Cooperative text editor in client-server model.  
 
 ### I'd like to learn:
