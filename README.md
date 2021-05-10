@@ -3,7 +3,9 @@ I am a 22-year old 3rd-year student of Computer Science at Warsaw University of 
 Programming and video games are my biggest passion and hobby. I love learning new stuff and improve my skills. Sky is the limit!  
 
 ### Skills
-C/C++, Python, basics of Java and C#
+C/C++, Python, basics of Java and C#  
+SQL, SQLite  
+Unit tests
 
 ### Check out these! (finished):  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justleon&repo=GKOM-Harvester&theme=nord)](https://github.com/justleon/GKOM-Harvester) 
