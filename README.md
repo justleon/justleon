@@ -7,7 +7,7 @@ C/C++, Python, basics of Java and C#
 SQL, SQLite  
 Unit tests
 
-### Check out these! (finished):  
+### Check out these!:  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justleon&repo=GKOM-Harvester&theme=nord)](https://github.com/justleon/GKOM-Harvester) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justleon&repo=AAL-computational-complexity&theme=nord)](https://github.com/justleon/AAL-computational-complexity)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=justleon&repo=SCZR-real-time-meteorological-simulation&theme=nord)](https://github.com/justleon/SCZR-real-time-meteorological-simulation) 
