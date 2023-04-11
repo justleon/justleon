@@ -1,3 +1,5 @@
+## README IS A SUBJECT TO CHANGE
+
 ### Hello there
 I am a 23-year old 4th-year student of Computer Science at Warsaw University of Technology.  
 Programming and video games are my biggest passion and hobby. I love learning new stuff and improve my skills. Sky is the limit!  
