@@ -2,6 +2,8 @@
 I am a 27-year old bachelor of, and soon-to-be master of science in, Computer Science (Warsaw University of Technology).  
 Programming, software engineering and video games are my biggest passions and hobbies. I love learning new stuff and improve my skills. Sky is the limit!  
 
+**Currently working on:** master's thesis - Utilization of NeRF in 3D animations and animation editing   
+
 ### Skills
 C/C++, Python w/ PyTorch  
 C# (Unity Game Engine, .NET)  
