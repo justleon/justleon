@@ -10,6 +10,7 @@ OOP and clean code
 Unit tests
 
 ### Check out these!:  
+❗❗ [[Python, FastApi, TypeScript] MidiTok Visualizer](https://github.com/justleon/MidiTok-Visualizer)  
 [[C++, OpenGL] Harvester made in OpenGL from ground-up](https://github.com/justleon/GKOM-Harvester)  
 [[Python] Deep computational complexity analysis of hash table operations](https://github.com/justleon/AAL-computational-complexity)  
 [[C++, Linux] Meteorological simulation in real time](https://github.com/justleon/SCZR-real-time-meteorological-simulation)  
