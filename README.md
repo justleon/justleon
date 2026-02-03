@@ -5,7 +5,7 @@ Programming, software engineering and video games are my biggest passions and ho
 ### Skills
 C/C++, Python w/ PyTorch  
 C# (Unity Game Engine, .NET)  
-Rust (hands-on learning)
+Rust (hands-on learning)  
 OOP and clean code  
 Unit tests
 
